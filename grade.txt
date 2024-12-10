@@ -1,0 +1,9 @@
+70 points - code & submission quality, documentation
+40 points - mutual links correctness
+100 points - connected components algorithm
+70 points - test suite quality & automation
+70 points - code completes in 90 minutes or less
+Total points: 350/350 points
+Great work! Your code is very fast, you've shown me that you got to know Spark
+quite well over the course of the semester. I love the detail you went into 
+describing your test suite. Keep it up in your future classes!
